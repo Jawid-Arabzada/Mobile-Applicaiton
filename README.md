@@ -1,1 +1,1 @@
-# Mobile-Applicaiton Assignments and Projects 
+# Mobile-Applicaiton Development Assignments  and Projects 
